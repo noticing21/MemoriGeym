@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ZorMod">
+
+    <TableLayout
+        android:id="@+id/tblZor"
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:id="@+id/img101"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="100"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img102"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="101"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img103"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="102"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img104"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="103"
+                app:srcCompat="@drawable/music" />
+
+            <ImageButton
+                android:id="@+id/img105"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="104"
+                app:srcCompat="@drawable/music" />
+
+            <ImageButton
+                android:id="@+id/img106"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="105"
+                app:srcCompat="@drawable/music" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:id="@+id/img107"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="106"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img108"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="107"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img109"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="108"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img110"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="109"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img111"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="110"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img112"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="111"
+                app:srcCompat="@drawable/music" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:id="@+id/img113"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="112"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img114"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="113"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img115"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="114"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img116"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="115"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img117"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="116"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img118"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="117"
+                app:srcCompat="@drawable/music" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:id="@+id/img119"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="118"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img120"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="119"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img121"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="120"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img122"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="121"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img123"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="122"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img124"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="123"
+                app:srcCompat="@drawable/music" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:id="@+id/img125"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="124"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img126"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="125"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img127"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="126"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img128"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="127"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img129"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="128"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img130"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="129"
+                app:srcCompat="@drawable/music" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:id="@+id/img131"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="130"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img132"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="131"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img133"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="132"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img134"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="133"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img135"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="144"
+                app:srcCompat="@drawable/music" />
+            <ImageButton
+                android:id="@+id/img136"
+                android:layout_width="68dp"
+                android:layout_height="68dp"
+                android:scaleType="fitCenter"
+                android:tag="135"
+                app:srcCompat="@drawable/music" />
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/HamleSayisiZor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="453dp"
+        android:text="Hamle Sayisi : 0"
+        android:textSize="20sp"
+        app:layout_constraintTop_toTopOf="@+id/tblZor"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="177dp" />
+
+    <TextView
+        android:id="@+id/EslesmeSayisiZor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Eşleşme Sayısı : 0 / 12"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@+id/HamleSayisiZor"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="62dp" />
+
+    <TextView
+        android:id="@+id/PuanSayacZor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Puan : 0"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@+id/EslesmeSayisiZor"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="125dp" />
+
+    <TextView
+        android:id="@+id/timerZor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kalan Süre : "
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@+id/PuanSayacZor"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="144dp" />
+
+    <Button
+        android:id="@+id/btnAnaMenuZor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ana Ekran"
+        android:visibility="invisible"
+        app:layout_constraintTop_toBottomOf="@+id/timerZor"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="127dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
