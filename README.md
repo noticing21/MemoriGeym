@@ -2,4 +2,4 @@
 
 ### Berat Birgin 1180505002
 
-![](memorigeymgif.gif)
+![](https://github.com/noticing21/MemoriGeym/blob/main/memorigeym.gif)
